@@ -4,7 +4,7 @@
 
 2. Go in .../Data_NG_LM
 
-3. Use python.app
+3. Use python app.py
 
 4. Go to localhost:80/ and use the app
 
