@@ -1,5 +1,5 @@
 pandas
 numpy
 pickles
-sklearn
+scikit-learn
 flask
